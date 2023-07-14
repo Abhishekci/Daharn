@@ -212,8 +212,8 @@ a:active {
 }
 
 .av-font-kn {
-    /* font-family: "Nudi" !important; */
-    font-family: "Nudi.2" !important;
+    font-family: "Nudi" !important;
+/*     font-family: "Nudi.2" !important; */
     /* font-size: large; */
     /* font-family: noti; */
     font-weight: 600;
